@@ -25,7 +25,6 @@ configs.setup({
 		"markdown",
 		"proto",
 		"python",
-		"sql",
 		"toml",
 		"yaml",
 	}, -- one of "all" or a list of languages

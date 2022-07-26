@@ -22,4 +22,3 @@ require "user.lsp"
 require "user.dap"
 
 require('go').setup()
-vim.cmd "set tabstop=4"
