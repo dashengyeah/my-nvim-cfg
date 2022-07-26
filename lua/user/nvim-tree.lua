@@ -32,7 +32,7 @@ nvim_tree.setup {
           symlink_open = "",
         },
         git = {
-          unstaged = "",
+          unstaged = "M",
           staged = "S",
           unmerged = "",
           renamed = "➜",
